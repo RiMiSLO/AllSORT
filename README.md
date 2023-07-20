@@ -1,2 +1,2 @@
 # AllSORT
-All sort. Use C/C++
+All sort. Use C/C++ and qt
